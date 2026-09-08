@@ -1,0 +1,13 @@
+{
+  "name": "gemini-minecraft-bot",
+  "version": "1.0.0",
+  "description": "Aternos Gemini Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.20.0",
+    "@google/genai": "^0.1.1"
+  }
+}
